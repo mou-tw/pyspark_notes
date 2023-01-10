@@ -1,7 +1,10 @@
 # pyspark_notes
 ## Functions
-* [explode]()
+* [explode](https://github.com/mou-tw/pyspark_notes/blob/main/pdf/Explode_function_in_pyspark.pdf)
 
-* [join(left/right/anti)]()
+* [join(left/right/anti)](https://github.com/mou-tw/pyspark_notes/blob/main/pdf/Join_function_in_pyspark.pdf)
 
-* [join(join with null value)]()
+* [join(join with null value)](https://github.com/mou-tw/pyspark_notes/blob/main/pdf/Join_with_null_value.pdf)
+
+
+
