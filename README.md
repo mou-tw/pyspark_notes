@@ -1,2 +1,7 @@
 # pyspark_notes
-my pyspark notes
+## Functions
+* [explode]()
+
+* [join(left/right/anti)]()
+
+* [join(join with null value)]()
