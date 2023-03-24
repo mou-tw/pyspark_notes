@@ -6,5 +6,5 @@
 
 * [join(join with null value)](https://github.com/mou-tw/pyspark_notes/blob/main/pdf/Join_with_null_value.pdf)
 
-
+* [from json to spark dataframe](https://github.com/mou-tw/pyspark_notes/blob/main/mds/struct_type.md)
 
